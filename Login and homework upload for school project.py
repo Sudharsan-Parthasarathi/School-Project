@@ -62,4 +62,7 @@ if login in student:
         q = list (question)
         if "homework" or "hw" in q:
             print (homework2)
-        
+
+#else we can add the homeworks manually
+
+#need to upload timetable, circular, test
